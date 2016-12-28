@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 128855040
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: envir/1.hd
+      Dependencies: {}
+    Info_1:
+      Name: envir/1.sd
+      Dependencies: {}
